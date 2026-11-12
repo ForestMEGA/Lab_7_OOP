@@ -1,7 +1,7 @@
 # Практична робота 7
 
 
-## Що конкретно я зробив у Lab-7:
+##Lab-7:
 
 1. **Налаштував клас `Drone.cs` для серіалізації:**
    * Додав атрибути `[JsonPropertyName]` до головних характеристик (`Model` -> `drone_model`, `BatteryCapacity` -> `battery_mah`, `MaxSpeed` -> `top_speed_kmh`).
